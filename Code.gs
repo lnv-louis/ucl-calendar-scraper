@@ -17,7 +17,7 @@
  */
 
 // Configuration
-const CALENDAR_URL = 'https://timetable.apps.ucl.ac.uk/icalendar/00NRW16U4UIBVJ9';
+const CALENDAR_URL = '';
 const SHEET_NAME = 'Attendance Tracker';
 const TIMEZONE = 'Europe/London';
 const ATTENDANCE_TARGET = 0.75; // 75% attendance requirement
