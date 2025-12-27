@@ -135,7 +135,7 @@ function fetchCalendar(url) {
 }
 
 /**
- * Parse iCalendar text format
+ * Parse iCalendar text format 
  */
 function parseICalendar(icalText) {
   const events = [];
